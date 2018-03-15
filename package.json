@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericluciano/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Eric Luciano <ericluciano.rj@gmail.com> (https://ericluciano.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericluciano/js-tdd/issues"
+  },
+  "homepage": "https://github.com/ericluciano/js-tdd#readme"
+}
